@@ -1,0 +1,2 @@
+# This file ensures the data/ngrams directory is tracked by Git
+# Place your NGram data files (*.csv) in this directory 
