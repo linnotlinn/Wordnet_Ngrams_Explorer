@@ -1,4 +1,4 @@
-# WordNet & NGram Explorer
+# WordNet & NGram Explorer (Based on UCBerkeley's CS61B PROJ2)
 
 
 ## Features
